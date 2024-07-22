@@ -1,0 +1,2 @@
+python timedur.py
+pause
