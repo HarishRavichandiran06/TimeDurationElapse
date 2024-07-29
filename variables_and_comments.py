@@ -15,9 +15,9 @@
 
 # Scope of a variable
 
-def func():
-    name_is = "Harish"
-        return name_is
 
+def func():
+    name_is = input("Enter a Name:")
+    return name_is
 
 print(func())
